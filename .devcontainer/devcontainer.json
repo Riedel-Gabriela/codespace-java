@@ -40,6 +40,7 @@
 				"java.configuration.updateBuildConfiguration": "automatic",
     			"java.compile.nullAnalysis.mode": "automatic",
 				"editor.bracketPairColorization.enabled": true,
+				"editor.inlayHints.enabled": "off",
 				"editor.wordWrap": "on"
 			}
 		}
